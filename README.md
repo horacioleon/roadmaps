@@ -4,7 +4,7 @@ Este repositório contém roadmaps de estudo focados em áreas específicas de t
 
 ## 🛡️ Roadmaps disponíveis
 
-- [Cybersecurity para Iniciantes - Redes, Linux e Python](roadmaps/cybersec-iniciante.md)
+- [Cybersecurity para Iniciantes - Redes, Linux e Python](roadmap-cybersec-iniciante.md)
 - (outros roadmaps futuramente...)
 
 ## 🚀 Como usar
